@@ -1,6 +1,9 @@
 # introsde-2017-assignment-3-server
 
-Federico Baldessari | federico.baldesssari@studenti.unitn.it
+Federico Baldessari | federico.baldessari@studenti.unitn.it
+
+[Heroku Link](https://introsde-3.herokuapp.com/people)
+[Github Client](https://github.com/balde73/introsde-2017-assignment-3-client)
 
 
 ## Project
