@@ -111,17 +111,4 @@ public class PeopleImpl implements People{
 		return activities;
 	}
 	
-	@Override
-	public void resetDB() {
-		/*for (Person p : this.readPersonList()) {
-			for(Activity a : p.getActivityPreferenceProfile()) {
-				this.activityDao.remove(a.getId());
-			}
-			this.updatePersonPreferences(p.getId(), null);
-			this.deletePerson(p.getId());
-		}
-		this.activityTypeDao.add(new ActivityType("Sport"));
-		this.activityTypeDao.add(new ActivityType("Education"));*/
-	}
-	
 }

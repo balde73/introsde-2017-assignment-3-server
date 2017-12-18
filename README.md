@@ -39,7 +39,7 @@ heroku login
 heroku create <HEROKU_APP_NAME> --region eu
 heroku war:deploy <WAR_PATH> --app <HEROKU_APP_NAME>
 heroku open
-// WSDL: http://<HEROKU_APP_NAME>/ws/people?wsdl
+// WSDL: http://<HEROKU_APP_NAME>/people?wsdl
 ```
 NOTES: `ant create.war` generates a war named `deploy.war`
 
