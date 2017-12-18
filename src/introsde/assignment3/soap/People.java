@@ -52,7 +52,4 @@ public interface People {
 	
 	@WebMethod
 	public List<Activity> getBestPersonPreference(Long id);
-	
-	@WebMethod
-	public void resetDB();
 }
